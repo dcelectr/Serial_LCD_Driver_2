@@ -6,4 +6,4 @@ Note that in the KiCad files male header is used (although the 3D .png rendering
 The LED (D1) and R2 are optional. You can populate for diagnostics (test the hardware), or connect a panel LED with wires to the Serial_LCD_Driver_2.
 It is recommended to use a resistance value for R2 no lower than 470 Ohms (preferably use 1K with high efficiency LEDs).
 The Q1 is used to provide current for the LCD back-light, so that the 74HC595 does not bear the burden to provide the required back-light current (some LCD back-lights draw as much as 200mA). The R1 can be adjusted (1K to 10K) to achieve Q1 saturation for or reduce the current to a desired brightness.
-This design has been built and tested with the code provided in this repository. It works! 
+This design has been built and tested with the code provided in the Serial_LCD_Driver repository. It works! 
