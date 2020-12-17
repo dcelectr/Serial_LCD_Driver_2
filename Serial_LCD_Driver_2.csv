@@ -1,0 +1,11 @@
+Reference, Quantity, Value,Part Number, Footprint, Datasheet
+C1 ,1,100nF,C320C104K5R5TA7317 ,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+C2 ,1,10nF,C315C103K5R5TA ,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,~
+D1 ,1,LED,3mm LED,LED_THT:LED_D3.0mm,~
+J1 ,1,Conn_01x05_Male,1x5 male header,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~
+Q1 ,1,BC547,BC547,Package_TO_SOT_THT:TO-92_Inline_Wide,http://www.fairchildsemi.com/ds/BC/BC547.pdf
+R1 ,1,4K7,1/8W 4.7 kOhms,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,~
+R2 ,1,470,1/8W 470 Ohms,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,~
+RV1 ,1,10K,3009P-1-103LF,Potentiometer_THT:Potentiometer_Bourns_3009P_Horizontal,~
+U1 ,1,74HC595,SN74HC595N or 74HCT595N,Package_DIP:DIP-16_W7.62mm_LongPads,http://www.ti.com/lit/ds/symlink/sn74hc595.pdf
+U2 ,1,RC1602A,PPPC161LFBN-RC ,Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical,http://www.raystar-optronics.com/down.php?ProID=18
